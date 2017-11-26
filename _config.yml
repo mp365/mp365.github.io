@@ -26,7 +26,8 @@ github_username:  mp365
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+theme: jekyll-theme-tactile
 gems:
   - jekyll-feed
 exclude:
